@@ -24,3 +24,4 @@ cp .env.example .env.local   # fill values
 npm run dev
 ```
 "# Dr.Raghda-QB" 
+"# Dr.RaghdaQB" 
